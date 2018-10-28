@@ -1,1 +1,1 @@
-This is  rejected.
+This is a game.
