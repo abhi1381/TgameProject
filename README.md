@@ -1,1 +1,1 @@
-is This game Project.
+is This game ejected.
