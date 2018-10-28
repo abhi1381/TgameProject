@@ -1,1 +1,1 @@
-is This game ejected.
+is This ejected.
