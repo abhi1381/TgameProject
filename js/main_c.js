@@ -162,3 +162,13 @@ function colorRect(leftX, topY, width, height, drawColor) {
     canvasContext.fillStyle = drawColor;
     canvasContext.fillRect(leftX, topY, width, height);
 }
+/**/
+this is also a bakchodi...;
+kyuki isse hame milegi ek free ki _t((and)sh(aur)irt);
+if(u_get_this_pull_request())
+{
+    delay(10_millisecond_);
+    merge_request(now);
+}
+return;
+fokat ki _t((and)sh(aur)irt) lenge;
